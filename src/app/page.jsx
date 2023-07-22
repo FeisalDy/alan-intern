@@ -158,7 +158,8 @@ const Home = () => {
                 >
                   <div className='relative w-40 h-40'>
                     <Image
-                      src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                      src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
+                      // Update the image source URL
                       alt='example'
                       fill={true}
                       className='cursor-pointer'
@@ -195,7 +196,7 @@ const Home = () => {
                 >
                   <div className='relative w-40 h-40 cursor-pointer'>
                     <Image
-                      src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                      src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                       alt='example'
                       fill={true}
                       className=''
@@ -232,7 +233,7 @@ const Home = () => {
                 >
                   <div className='relative w-40 h-40'>
                     <Image
-                      src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                      src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                       alt='example'
                       fill={true}
                       className='cursor-pointer'
@@ -269,7 +270,7 @@ const Home = () => {
                 >
                   <div className='relative w-40 h-40'>
                     <Image
-                      src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                      src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                       alt='example'
                       fill={true}
                       className='cursor-pointer'
@@ -306,7 +307,7 @@ const Home = () => {
                 >
                   <div className='relative w-40 h-40'>
                     <Image
-                      src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                      src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                       alt='example'
                       fill={true}
                       className='cursor-pointer'
@@ -330,7 +331,7 @@ const Home = () => {
             <div key={data.id} className='my-4 min-w-max'>
               <div className='relative w-40 h-40'>
                 <Image
-                  src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                  src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                   alt='example'
                   fill={true}
                   className=''
@@ -342,7 +343,7 @@ const Home = () => {
           <div className='flex flex-col my-4'>
             <div className='relative w-40 h-40'>
               <Image
-                src='https://images.pexels.com/photos/15767257/pexels-photo-15767257/free-photo-of-a-woman-standing-by-a-wall.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load'
+                src='https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2'
                 alt='example'
                 fill={true}
                 className=''

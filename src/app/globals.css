@@ -8,13 +8,29 @@
   align-items: center;
 }
 
-body {
-  background-color: #c0ccca;
-  font-family: 'Raleway';
-}
-
 @font-face {
   font-family: 'Raleway';
   src: local('Raleway'),
     url('/fonts/static/Raleway-Regular.ttf') format(truetype);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
 }
